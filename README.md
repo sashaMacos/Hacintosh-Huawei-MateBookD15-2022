@@ -6,8 +6,6 @@ Hacintosh для Huawei MateBook D15
 
 Не работает:
 
-Тачпад
-
 Видиокарта(IGpu)
 
 Звук
@@ -40,23 +38,25 @@ Bluetooth:Intel(R) Wireless Bluetooth(R)
 
 Работает:
 
+Тачпад (В режими опроса)
+
 Карта USB портов
 
 отображение заряда АКБ
 
-Wi-Fi
+Wi-Fi(Beta и только на Venture если нужна другая система скачайте более старый kext itlwm)
 
-Bluetooth(не будет работать на системе выше macOS BigSur)
+Bluetooth(есть баги в связи старого драйвера нового пока нет)
 
 Камера
 
-NVVMe SSD
+NVVMe SSD (определяеться как Apple SSD Controler)
 
 
-Мой EFI работает на базе OpenCore Версии 0.9.1
+Мой EFI работает на базе OpenCore Версии 0.9.2
 
 
 Если у вас получилось испрать то что не работает пишите мне в телеграм: @USER_404_NOT
 
-Ссылка на EFI: https://drive.google.com/file/d/1CMHD9_P3EpS-INkORh5cdonszHQ2lPum/view?usp=share_link
+Ссылка на EFI: https://drive.google.com/file/d/1RBk5rcc5X39flDZNOV_fbXgqanW39liI/view?usp=sharing
 
