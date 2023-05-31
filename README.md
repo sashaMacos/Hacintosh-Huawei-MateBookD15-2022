@@ -4,19 +4,6 @@ Hacintosh для Huawei MateBook D15
 
 
 
-Не работает:
-
-Видиокарта(IGpu)
-
-Звук
-
-Микрофон
-
-Отпечаток пальца(Goodix Fingerprint USB Device)
-
-
-
-
 Характеристики: 
 
 Процессро: Intel® Core i3-1115G4
@@ -50,10 +37,26 @@ Bluetooth(есть баги в связи старого драйвера нов
 
 Камера
 
-NVVMe SSD (определяеться как Apple SSD Controler)
+NVME SSD (определяеться как Apple SSD Controler)
+
+
+
+
+Не работает:
+
+Видиокарта(IGpu)
+
+Звук
+
+Микрофон
+
+Отпечаток пальца(Goodix Fingerprint USB Device)
+
+
 
 
 Мой EFI работает на базе OpenCore Версии 0.9.2
+
 
 
 Если у вас получилось испрать то что не работает пишите мне в телеграм: @USER_404_NOT
