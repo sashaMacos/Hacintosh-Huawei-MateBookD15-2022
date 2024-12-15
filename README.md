@@ -47,7 +47,3 @@
 Мой EFI работает на базе OpenCore Версии 0.9.2
 
 
-
-## Если у вас получилось испрать то что не работает пишите мне в телеграм: @USER_404_NOT
-Ссылка на EFI: https://drive.google.com/file/d/1RBk5rcc5X39flDZNOV_fbXgqanW39liI/view?usp=sharing
-
